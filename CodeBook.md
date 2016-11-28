@@ -1,35 +1,35 @@
 
 
-Variable names---codebook
+#Variable names---codebook
 
 
- [1] "activity"                    "timebodyaccmeanx"            "timebodyaccmeany"           
- [4] "timebodyaccmeanz"            "timebodyaccstdx"             "timebodyaccstdy"            
- [7] "timebodyaccstdz"             "timegravityaccmeanx"         "timegravityaccmeany"        
-[10] "timegravityaccmeanz"         "timegravityaccstdx"          "timegravityaccstdy"         
-[13] "timegravityaccstdz"          "timebodyaccjerkmeanx"        "timebodyaccjerkmeany"       
-[16] "timebodyaccjerkmeanz"        "timebodyaccjerkstdx"         "timebodyaccjerkstdy"        
-[19] "timebodyaccjerkstdz"         "timebodygyromeanx"           "timebodygyromeany"          
-[22] "timebodygyromeanz"           "timebodygyrostdx"            "timebodygyrostdy"           
-[25] "timebodygyrostdz"            "timebodygyrojerkmeanx"       "timebodygyrojerkmeany"      
-[28] "timebodygyrojerkmeanz"       "timebodygyrojerkstdx"        "timebodygyrojerkstdy"       
-[31] "timebodygyrojerkstdz"        "timebodyaccmagmean"          "timebodyaccmagstd"          
-[34] "timegravityaccmagmean"       "timegravityaccmagstd"        "timebodyaccjerkmagmean"     
-[37] "timebodyaccjerkmagstd"       "timebodygyromagmean"         "timebodygyromagstd"         
-[40] "timebodygyrojerkmagmean"     "timebodygyrojerkmagstd"      "freqbodyaccmeanx"           
-[43] "freqbodyaccmeany"            "freqbodyaccmeanz"            "freqbodyaccstdx"            
-[46] "freqbodyaccstdy"             "freqbodyaccstdz"             "freqbodyaccjerkmeanx"       
-[49] "freqbodyaccjerkmeany"        "freqbodyaccjerkmeanz"        "freqbodyaccjerkstdx"        
-[52] "freqbodyaccjerkstdy"         "freqbodyaccjerkstdz"         "freqbodygyromeanx"          
-[55] "freqbodygyromeany"           "freqbodygyromeanz"           "freqbodygyrostdx"           
-[58] "freqbodygyrostdy"            "freqbodygyrostdz"            "freqbodyaccmagmean"         
-[61] "freqbodyaccmagstd"           "freqbodybodyaccjerkmagmean"  "freqbodybodyaccjerkmagstd"  
-[64] "freqbodybodygyromagmean"     "freqbodybodygyromagstd"      "freqbodybodygyrojerkmagmean"
-[67] "freqbodybodygyrojerkmagstd" 
+[1] "subject"                     "activity"                    "timebodyaccmeanx"           
+ [4] "timebodyaccmeany"            "timebodyaccmeanz"            "timebodyaccstdx"            
+ [7] "timebodyaccstdy"             "timebodyaccstdz"             "timegravityaccmeanx"        
+[10] "timegravityaccmeany"         "timegravityaccmeanz"         "timegravityaccstdx"         
+[13] "timegravityaccstdy"          "timegravityaccstdz"          "timebodyaccjerkmeanx"       
+[16] "timebodyaccjerkmeany"        "timebodyaccjerkmeanz"        "timebodyaccjerkstdx"        
+[19] "timebodyaccjerkstdy"         "timebodyaccjerkstdz"         "timebodygyromeanx"          
+[22] "timebodygyromeany"           "timebodygyromeanz"           "timebodygyrostdx"           
+[25] "timebodygyrostdy"            "timebodygyrostdz"            "timebodygyrojerkmeanx"      
+[28] "timebodygyrojerkmeany"       "timebodygyrojerkmeanz"       "timebodygyrojerkstdx"       
+[31] "timebodygyrojerkstdy"        "timebodygyrojerkstdz"        "timebodyaccmagmean"         
+[34] "timebodyaccmagstd"           "timegravityaccmagmean"       "timegravityaccmagstd"       
+[37] "timebodyaccjerkmagmean"      "timebodyaccjerkmagstd"       "timebodygyromagmean"        
+[40] "timebodygyromagstd"          "timebodygyrojerkmagmean"     "timebodygyrojerkmagstd"     
+[43] "freqbodyaccmeanx"            "freqbodyaccmeany"            "freqbodyaccmeanz"           
+[46] "freqbodyaccstdx"             "freqbodyaccstdy"             "freqbodyaccstdz"            
+[49] "freqbodyaccjerkmeanx"        "freqbodyaccjerkmeany"        "freqbodyaccjerkmeanz"       
+[52] "freqbodyaccjerkstdx"         "freqbodyaccjerkstdy"         "freqbodyaccjerkstdz"        
+[55] "freqbodygyromeanx"           "freqbodygyromeany"           "freqbodygyromeanz"          
+[58] "freqbodygyrostdx"            "freqbodygyrostdy"            "freqbodygyrostdz"           
+[61] "freqbodyaccmagmean"          "freqbodyaccmagstd"           "freqbodybodyaccjerkmagmean" 
+[64] "freqbodybodyaccjerkmagstd"   "freqbodybodygyromagmean"     "freqbodybodygyromagstd"     
+[67] "freqbodybodygyrojerkmagmean" "freqbodybodygyrojerkmagstd" 
 
-Code book
+Codebook
 
-These are the 66 variables that contain means and standard deviations for means and standard deviations and the activity variable
+These are the 66 variables that contain means and standard deviations for means and standard deviations and the activity and subject variables
 
 
 Variables that begin with:
